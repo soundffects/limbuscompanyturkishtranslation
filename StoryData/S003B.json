@@ -2,29 +2,29 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Mephistopheles'in İçerisi",
       "model": "베르길리우스",
-      "content": "You’re looking much more useful than before, Dante."
+      "content": "Eskisinden çok daha verimli çalışıyorsun, Dante."
     },
     {
       "id": 1,
       "model": "단테",
-      "content": "<They all got away save for one, though. Shouldn’t we go after them?>"
+      "content": "<Birisi hariç hepsi kaçmayı başardı ama. Peşlerinden gitmemiz gerekmiyor mu?>"
     },
     {
       "id": 2,
       "model": "파우스트",
-      "content": "They’re worried over the foes we lost."
+      "content": "Elimizden kaçırdıklarımız üzerine endişeleniyorlar."
     },
     {
       "id": 3,
       "model": "베르길리우스",
-      "content": "No need for concern… That’s the direction we were heading anyway. Charon?"
+      "content": "Endişelenmeye gerek yok. Zaten yolumuz oraya düşüyordu. Charon?"
     },
     {
       "id": 4,
       "model": "카론",
-      "content": "Pedal touches metal. Up for an exciting ride."
+      "content": "Pedal metale dokunuyor, heyecanlı bir yolculuk bizi bekliyor."
     }
   ]
 }
