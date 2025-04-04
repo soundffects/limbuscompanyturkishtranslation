@@ -1,2 +1,2 @@
 # limbuscompanyturkishtranslation
-A Fan Translation Of Limbus Company
+Limbus company için fan çevirisi.
