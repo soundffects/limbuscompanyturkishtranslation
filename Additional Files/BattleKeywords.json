@@ -2,54 +2,54 @@
   "dataList": [
     {
       "id": "AreaAtk",
-      "name": "AoE Attack",
-      "desc": "Targets 2 or more foes."
+      "name": "Alan Hasarı",
+      "desc": "Bir veya daha fazla düşmanı hedef alır."
     },
     {
       "id": "Enhancement",
-      "name": "Attack Power Up",
-      "desc": "Attack skills gain final Power by the effect’s Count for one turn."
+      "name": "Saldırı Gücü Artışı",
+      "desc": "Bir tur boyunca saldırı özellikleri, efektin miktarına göre güç kazanır."
     },
     {
       "id": "Agility",
-      "name": "Haste",
-      "desc": "Speed increases by the effect’s Count for one turn."
+      "name": "Hız",
+      "desc": "Bir tur boyunca hız, efektin miktarına göre artar."
     },
     {
       "id": "Endurance",
-      "name": "Defense Power Up",
-      "desc": "Defense skills gain final Power by the effect’s Count for one turn."
+      "name": "Defans Gücü Artışı",
+      "desc": "Bir tur boyunca defans özellikleri, efektin miktarına göre güç kazanır."
     },
     {
       "id": "Reduction",
-      "name": "Attack Power Down",
-      "desc": "Attack skills lose final Power by the effect’s Count for one turn."
+      "name": "Saldırı Gücü Düşüşü",
+      "desc": "Bir tur boyunca saldırı özellikleri, efektin miktarına göre güç kaybeder."
     },
     {
       "id": "Binding",
-      "name": "Bind",
-      "desc": "Speed decreases by the effect’s Count for one turn."
+      "name": "Yavaşlama",
+      "desc": "Bir tur boyunca hız, efektin miktarına göre azalır."
     },
     {
       "id": "Vulnerable",
-      "name": "Fragile",
-      "desc": "Take more damage from skills based on the effect’s Count for one turn. (Max 10)",
-      "summary": "+{0}0% Damage Taken"
+      "name": "Kırılganlık",
+      "desc": "Bir tur boyunca, özelliklerden efektin miktarı ile ortantılı bir şekilde daha fazla hasar al. (Max 10)",
+      "summary": "+{0}0% Alınan Hasar"
     },
     {
       "id": "Taunt",
-      "name": "Taunt",
+      "name": "Aşağılama",
       "desc": ""
     },
     {
       "id": "Stun",
-      "name": "Stun",
+      "name": "Donma",
       "desc": ""
     },
     {
       "id": "ElectricShock",
-      "name": "Shock",
-      "desc": "Take more damage by the effect’s value for the turn"
+      "name": "Şok",
+      "desc": "Bir tur boyunca, efektin miktarına göre daha fazla hasar al"
     },
     {
       "id": "Burn",
