@@ -3,7 +3,7 @@
     {
       "id": "AreaAtk",
       "name": "Alan Hasarı",
-      "desc": "Bir veya daha fazla düşmanı hedef alır."
+      "desc": "İki veya daha fazla düşmanı hedef alır."
     },
     {
       "id": "Enhancement",
