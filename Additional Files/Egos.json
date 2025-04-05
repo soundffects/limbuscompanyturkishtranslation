@@ -2,27 +2,27 @@
   "dataList": [
     {
       "id": 20101,
-      "name": "Crow’s Eye View",
+      "name": "Kartal Bakışı Görüş",
       "desc": "Yi Sang’s Base E.G.O"
     },
     {
       "id": 20102,
-      "name": "4th Match Flame",
+      "name": "4. Kibrit Ateşi",
       "desc": "Yi Sang’s E.G.O Gear"
     },
     {
       "id": 20103,
-      "name": "Wishing Cairn",
+      "name": "Dileyen Kurgan",
       "desc": "Yi Sang’s E.G.O Gear"
     },
     {
       "id": 20201,
-      "name": "Representation Emitter",
+      "name": "Reprezentasyon Yayıcı",
       "desc": "Faust’s Base E.G.O"
     },
     {
       "id": 20202,
-      "name": "Fluid Sac",
+      "name": "Sıvı Kesesi",
       "desc": "Faust’s E.G.O Gear"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "id": 20302,
-      "name": "Fluid Sac",
+      "name": "Sıvı Kesesi",
       "desc": "Don Quixote’s E.G.O Gear"
     },
     {
       "id": 20401,
-      "name": "Forest for the Flames",
+      "name": "Alevler İçin Orman",
       "desc": "Ryōshū’s Base E.G.O"
     },
     {
       "id": 20402,
-      "name": "4th Match Flame",
+      "name": "4. Kibrit Ateşi",
       "desc": "Ryōshū’s E.G.O Gear"
     },
     {
       "id": 20501,
-      "name": "Chains of Others",
+      "name": "Başkalarının Zincirleri",
       "desc": "Meursault’s Base E.G.O"
     },
     {
@@ -77,17 +77,17 @@
     },
     {
       "id": 20701,
-      "name": "Bodysack",
+      "name": "Ceset Torbası",
       "desc": "Heathcliff’s Base E.G.O"
     },
     {
       "id": 20702,
-      "name": "Telepole",
+      "name": "Telepol",
       "desc": "Heathcliff’s E.G.O Gear"
     },
     {
       "id": 20801,
-      "name": "Snagharpoon",
+      "name": "Çıkıkzıpkın",
       "desc": "Ishmael’s Base E.G.O"
     },
     {
