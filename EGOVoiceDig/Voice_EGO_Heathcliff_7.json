@@ -3,7 +3,7 @@
     {
       "id": "battle_awaken_20701_1",
       "desc": "E.G.O Activation",
-      "dlg": "Bu torbaya… seni de sokacağım ulan!"
+      "dlg": "Bu çuvala... sen de gireceksin ulan!"
     },
     {
       "id": "battle_awaken_20702_1",
@@ -28,7 +28,7 @@
     {
       "id": "battle_awaken_20704_1",
       "desc": "E.G.O Activation",
-      "dlg": "Bir. İki. Yerin her titreşimi ile Karma'nın ağırlığı geri sana dönüyor."
+      "dlg": "Bir. İki. Yerin her titreşimi ile Karma'nın ağırlı sana geri dönüyor."
     },
     {
       "id": "battle_erosion_20704_1",
@@ -43,7 +43,7 @@
     {
       "id": "battle_erosion_20705_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "USLU! ÇOCUKLAR! HEDİYELER! HAKEDER!"
+      "dlg": "USLU! ÇOCUKLAR! HEDİYE! HAKEDER!"
     },
     {
       "id": "battle_overdrive_20701_1-1",
@@ -58,22 +58,22 @@
     {
       "id": "battle_overdrive_20701_1-3",
       "desc": "Frenzied E.G.O Activation",
-      "dlg": "... VE TÜM GÜCÜMÜN EN SON HIKINI BİLE KULLANARAK EZECEĞİM...!"
+      "dlg": "... VE TÜM GÜCÜMÜN EN SON HIKINA KADAR KULLANARAK EZECEĞİM...!"
     },
     {
       "id": "battle_awaken_20706_1",
       "desc": "E.G.O Activation",
-      "dlg": "Bu yalnız tahtın üzerinde hüküm sürmek ile tutsağım..."
+      "dlg": "Bu yalnız tahtın üzerinde hüküm sürmeye tutsağım..."
     },
     {
       "id": "battle_erosion_20706_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Bu bandajlar beni bağlıyor ve hapsediyor... Ne zaman özgür kalacağım?!!"
+      "dlg": "Bu bağlar beni sarıyor ve hapsediyor... Ne zaman özgür kalacağım?!!"
     },
     {
       "id": "battle_awaken_20701_2",
       "desc": "E.G.O Activation",
-      "dlg": "Cathy'yi... görmek zorundayım. Ve yolumda duran her şeyi..."
+      "dlg": "Cathy'yi... görmek zorundayım. Ve yolumda duran her şey..."
     },
     {
       "id": "battle_awaken_20701_3",
@@ -83,7 +83,7 @@
     {
       "id": "battle_awaken_20707_1",
       "desc": "E.G.O Activation",
-      "dlg": "İstiyorsan topukla. Benim dağılan mermilerim...\n...nereye kaçarsan kaç kelleni uçuracaklar."
+      "dlg": "İstiyorsan topukla. Benim dağılan mermilerim...\n...nereye kaçarsan kaç kelleni havaya uçuracaklar."
     },
     {
       "id": "battle_erosion_20707_1",
