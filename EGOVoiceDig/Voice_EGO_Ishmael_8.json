@@ -3,97 +3,97 @@
     {
       "id": "battle_awaken_20801_1",
       "desc": "E.G.O Activation",
-      "dlg": "That bastard… has to be alive still."
+      "dlg": "O piç... Halen hayatta olmalı."
     },
     {
       "id": "battle_awaken_20801_2",
       "desc": "E.G.O Activation",
-      "dlg": "This is how I will chart my own path…"
+      "dlg": "Kendi yolumu böyle çizeceğim…"
     },
     {
       "id": "battle_special_1",
       "desc": "E.G.O Activation",
-      "dlg": "This is going to be one bumpy voyage. Everyone, hold on to something!"
+      "dlg": "Bu çok engebeli bir yolculuk olacak. Herkes bir şeye tutunsun!"
     },
     {
       "id": "battle_special_2",
       "desc": "E.G.O Activation",
-      "dlg": "Chart your own way. Your path. That is my wish."
+      "dlg": "Kendi yolunu çiz. Senin yolunu. Benim dileğim bu."
     },
     {
       "id": "battle_awaken_20802_1",
       "desc": "E.G.O Activation",
-      "dlg": "Before pleasure swallows me whole…"
+      "dlg": "Haz beni yutmadan önce…"
     },
     {
       "id": "battle_erosion_20802_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Wheehee! I’ll enwrap it… enrapture it."
+      "dlg": "Wheehee! Onu saracağım... mest edeceğim."
     },
     {
       "id": "battle_awaken_20803_1",
       "desc": "E.G.O Activation",
-      "dlg": "Though I can’t guide you… I can offer a warm embrace."
+      "dlg": "Sana yol gösteremem ama... Sana sıcacık bir kucaklama sunabilirim."
     },
     {
       "id": "battle_erosion_20803_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Do you see? My writhing struggle, hoping the world is cocooned in flames with me…"
+      "dlg": "Görüyor musun? Kıvranan mücadelemi, dünyanın benimle birlikte alevler içinde kozalanmasını umuşumu..."
     },
     {
       "id": "battle_awaken_20804_1",
       "desc": "E.G.O Activation",
-      "dlg": "Come on… This way!"
+      "dlg": "Hadi... Bu taraftan!"
     },
     {
       "id": "battle_erosion_20804_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Must be here… Oh, was it that way?"
+      "dlg": "Burada olmalı... Aa, o yolda mıydı?"
     },
     {
       "id": "battle_awaken_20805_1",
       "desc": "E.G.O Activation",
-      "dlg": "All hands, full speed toward where the lights flicker.\nThe waves... will lay waste to everything in our way."
+      "dlg": "Bütün eller, ışıkların titrediği yere doğru tam hızla.\nDalgalar... yolumuza çıkan her şeyi yerle bir edecek."
     },
     {
       "id": "battle_erosion_20805_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "To the sea, to the sea. All hands, abandon ship and descend. Into the flickering depths we sink."
+      "dlg": "Denize, denize. Herkes gemiyi terk etsin ve atlasın. Titreyen derinliklere batıyoruz."
     },
     {
       "id": "battle_erosion_20805_3",
       "desc": "E.G.O Corrosion",
-      "dlg": "To the sea, to the sea. All hands, abandon ship and descend. Into the flickering depths we sink."
+      "dlg": "Denize, denize. Herkes gemiyi terk etsin ve insin. Titreyen derinliklere batıyoruz."
     },
     {
       "id": "battle_awaken_20806_1",
       "desc": "E.G.O Activation",
-      "dlg": "Very good. Sit still and be gentle. Scarred meat isn't... tasty."
+      "dlg": "Çok iyi. Otur ve nazik ol. Yaralı et... lezzetli değildir."
     },
     {
       "id": "battle_erosion_20806_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Y-you suspected me, didn't you...?\nBastards harboring such evil thoughts must be...!"
+      "dlg": "B-benden şüpheleniyordun, değil mi...?\nBöyle kötü düşüncelere sahip olan piçler mutlaka...!"
     },
     {
       "id": "battle_awaken_20807_1",
       "desc": "E.G.O Activation",
-      "dlg": "By the command of my master, I... will cleanse you from this place."
+      "dlg": "Efendimin emriyle... Sizi buradan temizleyeceğim."
     },
     {
       "id": "battle_erosion_20807_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "There's no end to this cleaning... You! Stop leaving your mess all over the manor!"
+      "dlg": "Bu temizliğin sonu yok... Sen! Malikanenin her tarafına pisliğini bırakmayı bırak!"
     },
     {
       "id": "battle_awaken_20808_1",
       "desc": "E.G.O Activation",
-      "dlg": "A monster? What are you... You've got to be hallucinating or something.\nHaah. ... No one saw that, right?"
+      "dlg": "Canavar mı? Ne diyorsun.. Halüsinasyon falan görüyor olmalısın.\nHaah. ... Bunu kimse görmedi, değil mi?"
     },
     {
       "id": "battle_erosion_20808_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Curiosity is a dangerous thing, you know... too much of it, and the darkness will eat you whole!"
+      "dlg": "Merak tehlikeli bir şeydir, bilirsin... Fazla merak edersen, karanlık seni yer bitirir!"
     }
   ]
 }
